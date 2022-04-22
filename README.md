@@ -2,7 +2,7 @@
 <img src="images/logoExplorer.jpg" alt="logo azul do programa Explorer da Rocketseat"></a>
 <br>
 
-Check it out on <a href="https://eduhrodrigues.github.io/Explorer-Stage04-JS-Exercise1/
+Check it out on <a href="https://eduhrodrigues.github.io/Explorer-Stage04-JS-Exercise01/
 ">github.io/Explorer-Stage04-JS-Exercise01</a><br><br>
 
 <h1> Algorithm and Programming Logical with Javascript </h1>
@@ -37,4 +37,4 @@ Nesse desafio, você irá solicitar ao usuário que ele insira **dois números**
 
 Check my job on <a href="https://eduhrodrigues.github.io/Explorer-Stage04-JS-Exercise1/
 ">github.io/Explorer-Stage04-JS-Exercise01</a>
-https://eduhrodrigues.github.io/Explorer-Stage04-JS-Exercise1/https://eduhrodrigues.github.io/Explorer-Stage04-JS-Exercise1/https://eduhrodrigues.github.io/Explorer-Stage04-JS-Exercise1/
+https://eduhrodrigues.github.io/Explorer-Stage04-JS-Exercise1/https://eduhrodrigues.github.io/Explorer-Stage04-JS-Exercise1/https://eduhrodrigues.github.io/Explorer-Stage04-JS-Exercise01/
