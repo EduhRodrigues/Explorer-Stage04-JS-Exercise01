@@ -16,6 +16,36 @@ body {
 
 img {
   position: absolute;
-  margin-top: 50%;
+  margin-top: 45%;
   left: 50%;
+}
+
+.git-image {
+  position: absolute;
+  margin-top: 5%;
+  left: 50%;
+  width: 30px;
+  height: auto;
+}
+
+img {
+  /* Start the shake animation and make the animation last for 0.5 seconds */
+  animation: shake 10s;
+
+  /* When the animation is finished, start again */
+  animation-iteration-count: infinite;
+}
+
+@keyframes shake {
+  0% { transform: translate(-400px, 40px) rotate(0deg); }
+  10% { transform: translate(-400px, -40px) rotate(-90deg); }
+  20% { transform: translate(-300px, 80px) rotate(80deg); }
+  30% { transform: translate(-200px, -80px) rotate(-80deg); }
+  40% { transform: translate(-100px, 60px) rotate(70deg); }
+  50% { transform: translate(0px, -60px) rotate(-70deg); }
+  60% { transform: translate(100px, 40px) rotate(60deg); }
+  70% { transform: translate(200px, -40px) rotate(-60deg); }
+  80% { transform: translate(300px, 100px) rotate(50deg); }
+  90% { transform: translate(400px, 100px) rotate(-50deg); }
+  100% { transform: translate(400px, 100px) rotate(0deg); }
 }
